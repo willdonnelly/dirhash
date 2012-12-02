@@ -36,3 +36,5 @@ Filenames are escaped following the familiar rules:
 
 no other characters are escaped, as these changes are sufficient to
 unambiguously store any filename.
+
+[package documentation](http://go.pkgdoc.org/github.com/willdonnelly/dirhash)
